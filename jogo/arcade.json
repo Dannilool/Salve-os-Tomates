@@ -1,0 +1,33 @@
+{
+	"name": "Novo projeto",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "1cnelg19nb7",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r476.3",
+	"ife": true,
+	"used-plugins": [
+		"Sprite",
+		"TiledBg",
+		"Keyboard",
+		"Text",
+		"Mouse",
+		"Audio"
+	],
+	"used-behaviors": [
+		"Platform",
+		"scrollto",
+		"bound",
+		"solid",
+		"Sin",
+		"Anchor",
+		"Pin"
+	]
+}
